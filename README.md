@@ -57,7 +57,7 @@ multi_agent_system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/TalhaSyed65737/.git
+git clone https://github.com/TalhaSyed65737/Multi_agent_research_system.git
 cd YOUR_REPO
 ```
 
